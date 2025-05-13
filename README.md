@@ -40,7 +40,7 @@ print("The number of words are in the file is ",num)
 
 ### OUTPUT:
 
-![image](https://github.com/user-attachments/assets/7c1cd5f2-2a15-4b3d-92b4-25dd212f21a2)
+![image](https://github.com/user-attachments/assets/da01945f-c44d-4064-b450-73c5098c7174)
 
 ## RESULT:
 Thus the program is written to find the word count from a text.
